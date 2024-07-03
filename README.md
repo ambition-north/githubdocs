@@ -1,2 +1,1 @@
-# githubdocs
-chinese doc
+# github中文文档
